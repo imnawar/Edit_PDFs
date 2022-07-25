@@ -1,0 +1,8 @@
+name: pdf_edits
+channels:
+  - https://conda.anaconda.org/schrodinger
+  - https://repo.anaconda.com/pkgs/main
+  - defaults
+  - conda-forge
+  - https://levinthal:paradox@conda.graylab.jhu.edu
+prefix: C:\Users\manal\anaconda3\envs\pdf_edits\envs\pdf_edits
